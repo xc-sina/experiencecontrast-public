@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-08-16T14:41:48.364823-07:00",
+  "class_name": "Guided Contrast Therapy",
+  "sessions": [
+    {
+      "session_id": 140604899,
+      "date_iso": "2026-08-18T17:00:00-07:00",
+      "date_display": "Tuesday, August 18",
+      "time_display": "5:00 PM",
+      "duration_min": 120,
+      "capacity": 18,
+      "spots_open": 12,
+      "waitlist_open": true,
+      "price_usd": 57,
+      "location": "Alchemy Springs",
+      "book_url": "https://momence.com/s/140604899"
+    },
+    {
+      "session_id": 140604900,
+      "date_iso": "2026-08-25T17:00:00-07:00",
+      "date_display": "Tuesday, August 25",
+      "time_display": "5:00 PM",
+      "duration_min": 120,
+      "capacity": 18,
+      "spots_open": 18,
+      "waitlist_open": true,
+      "price_usd": 57,
+      "location": "Alchemy Springs",
+      "book_url": "https://momence.com/s/140604900"
+    },
+    {
+      "session_id": 141964049,
+      "date_iso": "2026-09-01T17:00:00-07:00",
+      "date_display": "Tuesday, September 1",
+      "time_display": "5:00 PM",
+      "duration_min": 120,
+      "capacity": 18,
+      "spots_open": 18,
+      "waitlist_open": true,
+      "price_usd": 57,
+      "location": "Alchemy Springs",
+      "book_url": "https://momence.com/s/141964049"
+    },
+    {
+      "session_id": 141964050,
+      "date_iso": "2026-09-08T17:00:00-07:00",
+      "date_display": "Tuesday, September 8",
+      "time_display": "5:00 PM",
+      "duration_min": 120,
+      "capacity": 18,
+      "spots_open": 18,
+      "waitlist_open": true,
+      "price_usd": 57,
+      "location": "Alchemy Springs",
+      "book_url": "https://momence.com/s/141964050"
+    },
+    {
+      "session_id": 141964051,
+      "date_iso": "2026-09-15T17:00:00-07:00",
+      "date_display": "Tuesday, September 15",
+      "time_display": "5:00 PM",
+      "duration_min": 120,
+      "capacity": 18,
+      "spots_open": 18,
+      "waitlist_open": true,
+      "price_usd": 57,
+      "location": "Alchemy Springs",
+      "book_url": "https://momence.com/s/141964051"
+    }
+  ]
+}
