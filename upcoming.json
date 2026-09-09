@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-07T15:14:11.396385-07:00",
+  "generated_at": "2026-09-08T21:22:59.767474-07:00",
   "class_name": "Guided Contrast Therapy",
   "sessions": [
-    {
-      "session_id": 141964050,
-      "date_iso": "2026-09-08T17:00:00-07:00",
-      "date_display": "Tuesday, September 8",
-      "time_display": "5:00 PM",
-      "duration_min": 120,
-      "capacity": 18,
-      "spots_open": 2,
-      "waitlist_open": true,
-      "price_usd": 57,
-      "location": "Alchemy Springs",
-      "book_url": "https://momence.com/s/141964050"
-    },
     {
       "session_id": 141964051,
       "date_iso": "2026-09-15T17:00:00-07:00",
@@ -22,7 +9,7 @@
       "time_display": "5:00 PM",
       "duration_min": 120,
       "capacity": 18,
-      "spots_open": 15,
+      "spots_open": 12,
       "waitlist_open": true,
       "price_usd": 57,
       "location": "Alchemy Springs",
