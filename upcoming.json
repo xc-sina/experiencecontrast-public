@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:32:48.729882-07:00",
+  "generated_at": "2026-09-10T17:33:25.164004-07:00",
   "class_name": "Guided Contrast Therapy",
   "sessions": [
     {
@@ -28,7 +28,7 @@
       "waitlist_open": false,
       "price_usd": 79.0,
       "location": "Sauna Sanctuary",
-      "book_url": "https://app.acuityscheduling.com/catalog.php?owner=40174045&action=addClass&clsid=120338002"
+      "book_url": "https://app.acuityscheduling.com/schedule/aa4af975/?appointmentTypeIds%5B%5D=98145157"
     },
     {
       "session_id": "acuity:120338003",
@@ -42,7 +42,7 @@
       "waitlist_open": false,
       "price_usd": 79.0,
       "location": "Sauna Sanctuary",
-      "book_url": "https://app.acuityscheduling.com/catalog.php?owner=40174045&action=addClass&clsid=120338003"
+      "book_url": "https://app.acuityscheduling.com/schedule/aa4af975/?appointmentTypeIds%5B%5D=98145157"
     },
     {
       "session_id": "acuity:120338004",
@@ -56,7 +56,7 @@
       "waitlist_open": false,
       "price_usd": 79.0,
       "location": "Sauna Sanctuary",
-      "book_url": "https://app.acuityscheduling.com/catalog.php?owner=40174045&action=addClass&clsid=120338004"
+      "book_url": "https://app.acuityscheduling.com/schedule/aa4af975/?appointmentTypeIds%5B%5D=98145157"
     }
   ]
 }
