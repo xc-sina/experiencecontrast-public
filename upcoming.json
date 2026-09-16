@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-15T10:25:20.898988-07:00",
+  "generated_at": "2026-09-15T21:33:52.758358-07:00",
   "class_name": "Sauna Sanctuary",
   "sessions": [
-    {
-      "session_id": 141964051,
-      "date_iso": "2026-09-15T17:00:00-07:00",
-      "date_display": "Tuesday, September 15",
-      "time_display": "5:00 PM",
-      "duration_min": 120,
-      "price_usd": 57,
-      "book_url": "https://momence.com/s/141964051",
-      "source": "alchemy",
-      "format": "",
-      "class_title": "Guided Contrast Therapy",
-      "location": "Alchemy Springs"
-    },
     {
       "session_id": 143692218,
       "date_iso": "2026-09-19T11:00:00-07:00",
