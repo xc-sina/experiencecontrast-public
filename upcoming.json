@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-09-16T12:21:34.753655-07:00",
+  "generated_at": "2026-09-21T09:12:16.590591-07:00",
   "class_name": "Sauna Sanctuary",
   "sessions": [
-    {
-      "session_id": 143692218,
-      "date_iso": "2026-09-19T11:00:00-07:00",
-      "date_display": "Saturday, September 19",
-      "time_display": "11:00 AM",
-      "duration_min": 90,
-      "price_usd": 79,
-      "book_url": "https://momence.com/s/143692218",
-      "source": "contrast",
-      "format": "Settle",
-      "class_title": "Guided Contrast Therapy: Settle",
-      "location": "Sauna Sanctuary"
-    },
-    {
-      "session_id": 143692425,
-      "date_iso": "2026-09-24T18:15:00-07:00",
-      "date_display": "Thursday, September 24",
-      "time_display": "6:15 PM",
-      "duration_min": 90,
-      "price_usd": 79,
-      "book_url": "https://momence.com/s/143692425",
-      "source": "contrast",
-      "format": "Spark",
-      "class_title": "Guided Contrast Therapy: Spark",
-      "location": "Sauna Sanctuary"
-    },
     {
       "session_id": 143729060,
       "date_iso": "2026-09-29T18:15:00-07:00",
@@ -91,19 +65,6 @@
       "source": "contrast",
       "format": "Settle",
       "class_title": "Guided Contrast Therapy: Settle",
-      "location": "Sauna Sanctuary"
-    },
-    {
-      "session_id": 143729064,
-      "date_iso": "2026-10-13T18:15:00-07:00",
-      "date_display": "Tuesday, October 13",
-      "time_display": "6:15 PM",
-      "duration_min": 90,
-      "price_usd": 79,
-      "book_url": "https://momence.com/s/143729064",
-      "source": "contrast",
-      "format": "Spark",
-      "class_title": "Guided Contrast Therapy: Spark",
       "location": "Sauna Sanctuary"
     },
     {
@@ -192,6 +153,19 @@
       "duration_min": 90,
       "price_usd": 79,
       "book_url": "https://momence.com/s/143692224",
+      "source": "contrast",
+      "format": "Settle",
+      "class_title": "Guided Contrast Therapy: Settle",
+      "location": "Sauna Sanctuary"
+    },
+    {
+      "session_id": 143692226,
+      "date_iso": "2026-11-14T11:00:00-08:00",
+      "date_display": "Saturday, November 14",
+      "time_display": "11:00 AM",
+      "duration_min": 90,
+      "price_usd": 79,
+      "book_url": "https://momence.com/s/143692226",
       "source": "contrast",
       "format": "Settle",
       "class_title": "Guided Contrast Therapy: Settle",
