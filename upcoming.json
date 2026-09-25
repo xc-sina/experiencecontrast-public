@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:01:24.624680-07:00",
+  "generated_at": "2026-09-25T10:47:57.125925-07:00",
   "class_name": "Sauna Sanctuary",
   "sessions": [
     {
@@ -127,6 +127,19 @@
       "duration_min": 75,
       "price_usd": null,
       "book_url": "https://momence.com/s/143729059",
+      "source": "contrast",
+      "format": "Spark",
+      "class_title": "Guided Contrast Therapy: Spark",
+      "location": "Sauna Sanctuary"
+    },
+    {
+      "session_id": 143692430,
+      "date_iso": "2026-10-29T18:15:00-07:00",
+      "date_display": "Thursday, October 29",
+      "time_display": "6:15 PM",
+      "duration_min": 75,
+      "price_usd": null,
+      "book_url": "https://momence.com/s/143692430",
       "source": "contrast",
       "format": "Spark",
       "class_title": "Guided Contrast Therapy: Spark",
